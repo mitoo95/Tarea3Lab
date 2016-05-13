@@ -33,7 +33,7 @@ public class Cliente{
             do{
                 try{
                     message = (String)in.readObject();
-                    System.out.println("Connected to localhost in port 2004");
+                    System.out.println("Connected to mitopc in port 2004");
                     System.out.println("Ingrese uno de los numeros siguientes");
                     System.out.println("1: Nombre de mi creador");
                     System.out.println("2: Hobby de mi creador");
